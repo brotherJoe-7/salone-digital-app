@@ -1,0 +1,6 @@
+.git
+docs
+scripts
+README.md
+Makefile
+docker-compose.yml
